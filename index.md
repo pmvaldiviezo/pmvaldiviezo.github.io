@@ -1,6 +1,6 @@
 ## Recommender System
 
-This site includes some researches in recoomender systems, design and implementation of packages about methods of recommendation
+This site includes some researches in recommender systems, design and implementation of packages about methods of recommendation
 
 ### BNMF package
 
