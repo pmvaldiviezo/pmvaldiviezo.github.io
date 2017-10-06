@@ -1,37 +1,23 @@
-## Bienvenido a mi cuenta de investigación 
+## Recommender System
 
-You can use the [editor on GitHub](https://github.com/pmvaldiviezo/pmvaldiviezo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site includes some researches in recoomender systems, design and implementation of packages about methods of recommendation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### BNMF package
 
-### Markdown
+BNMF is an algorithm which compute the prediction the tastes of users in recommender systems based on factorizing the rating matrix into two non negative matrices, one related to items and another one related to users.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Get started
+[Download](https://github.com/pmvaldiviezo/BNMF/releases/tag/BNMF1.0) a binary release to start using BNMF.
 
-```markdown
-Syntax highlighted code block
+Learn by exploring the documentation.
 
-# Tema i
-## Header 2
-### Header 3
+### Documentation
+[Manuals](https://github.com/pmvaldiviezo/BNMF/blob/master/manual/BNMF.pdf)
 
-- Bulleted
-- List
+[Vignettes](https://github.com/pmvaldiviezo/BNMF/blob/master/vignettes/BNMF_v.pdf)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Support 
 
-[Link](url) and ![Image](src)
-```
+Check out our [documentation](https://github.com/pmvaldiviezo/BNMF/blob/master/manual/BNMF.pdf) or [contact support](https://github.com/pmvaldiviezo) and we’ll help you sort it out.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmvaldiviezo/pmvaldiviezo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
